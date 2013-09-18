@@ -1,2 +1,5 @@
-tests/reports/*
+tests/report/*
 tests/logs/*
+.buildpath
+.settings
+.project
