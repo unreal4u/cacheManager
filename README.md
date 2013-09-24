@@ -52,7 +52,7 @@ if (empty($secondExample)) {
 
 Pending
 ---------
-* None
+* Support for memcache
 
 Version History
 ----------
@@ -75,6 +75,8 @@ Version History
 * 2.3:
     * Default base class which can be implementable if APC (or another of your choice) doesn't work. This way your code
       won't fail because at least the object and base methods will be defined
+* 2.5:
+	* Added support for redis
 
 Contact the author
 -------

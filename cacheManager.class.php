@@ -9,7 +9,7 @@ include ('exceptions.class.php');
  * The main cache manager class which will call the child specified cache module
  *
  * @package Cache manager
- * @version 2.3
+ * @version 2.5
  * @author Camilo Sperberg - http://unreal4u.com/
  * @license BSD License. Feel free to use and modify
  */
@@ -18,7 +18,7 @@ class cacheManager {
      * The version of this class
      * @var string
      */
-    private $version = '2.3';
+    private $version = '2.5';
 
     /**
      * Holds the child object
