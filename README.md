@@ -1,6 +1,11 @@
 cacheManager.class.php
 ======
 
+# IMPORTANT: Deprecated
+
+Please don't use this class ever. It was bad when I started on it and today there are a gazillion better options. I'll archive this as well.
+
+
 Credits
 --------
 
